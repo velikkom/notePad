@@ -1,6 +1,6 @@
 package com.tpe.concretes;
-import com.tpe.Controller.RegisterController;
-import com.tpe.Controller.UserAuthenticationManager;
+import com.tpe.Controller.Register.RegisterController;
+import com.tpe.Controller.Register.UserAuthenticationManager;
 import com.tpe.helpers.Slow;
 
 

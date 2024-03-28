@@ -1,4 +1,4 @@
-package com.tpe.Controller;
+package com.tpe.Controller.Register;
 
 import java.util.HashMap;
 import java.util.Map;
